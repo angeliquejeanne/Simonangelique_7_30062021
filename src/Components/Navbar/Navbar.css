@@ -6,8 +6,10 @@
   align-items: center;
   justify-content: space-between;
   padding-right: 5px;
-  position: relative;
+  position: absolute;
   z-index: 10;
+  top: 0;
+  left: 0;
 }
 .navbar .left {
   margin-left: 2.5rem;
