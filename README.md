@@ -10,7 +10,7 @@
     </video>
     <p align="center">
     <a href="/" style="text-decoration: none;">
-        <img src="./src/Assets/capt-docs/Capt1.png" width="800" alt="Groupomania Home"/>
+        <img src="https://i.gyazo.com/72098cf1f39d3db6c6fd23d68260626d.png" width="800" alt="Groupomania Home"/>
     </a>
 </p>
 </div>
