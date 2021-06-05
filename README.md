@@ -9,8 +9,8 @@
         Cette vidéo ne peut être affichée sur votre navigateur Internet.
     </video>
     <p align="center">
-    <a href="" style="text-decoration: none;">
-        <img src="./public/Docs/capt1.png" width="800" alt="Oricamera home page"/>
+    <a href="/" style="text-decoration: none;">
+        <img src="https://i.gyazo.com/72098cf1f39d3db6c6fd23d68260626d.png" width="800" alt="Groupomania Home"/>
     </a>
 </p>
 </div>
