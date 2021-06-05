@@ -6,9 +6,19 @@ export default function Login() {
 
     const showModal = useSelector(state => state)
 
+    const dispatch = useDispatch()
+
+    const closeModal = () => {
+        dispatch({
+            type: "CLOSEMODAL"
+        })
+    }
+
     return (
         <div className={showModal.showLogin ? "global-modal" : "hide-modal"}>
-            <div className="overlay"></div>
+
+            <div onClick={closeModal} className="overlay"></div>
+            
             <div className="container-modal">
                 <form className="form-auth">
                     <h2>CONNEXION</h2>
@@ -21,7 +31,7 @@ export default function Login() {
 
                     <button className="btn-login">Connexion</button>
                 </form>
-                <button className="btn-close">x</button>
+                <button onClick={closeModal} className="btn-close">x</button>
                 <p className="bottom-help-txt">
                     Besoin de créer un compte ?
                 </p>
