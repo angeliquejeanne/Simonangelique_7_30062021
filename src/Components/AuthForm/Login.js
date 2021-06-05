@@ -1,9 +1,13 @@
 import React, {useRef, useState} from 'react'
 import './AuthForm.css'
+import { useSelector, useDispatch } from 'react-redux'
 
 export default function Login() {
+
+    const showModal = useSelector(state => state)
+
     return (
-        <div className="global-modal">
+        <div className={showModal.showLogin ? "global-modal" : "hide-modal"}>
             <div className="overlay"></div>
             <div className="container-modal">
                 <form className="form-auth">

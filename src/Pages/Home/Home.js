@@ -40,8 +40,8 @@ export default function Home() {
                 </h1>
                 <p>Merci de vous connectez pour accéder aux services.</p>
             </div>
-            {/* <Login />
-            <SignUp /> */}
+            <Login />
+            <SignUp />
         </div>
     )
 }
