@@ -14,8 +14,6 @@
 }
 .logo {
   width: 200px;
-  height: 70px;
-  z-index: 2;
 }
 .navbar .right {
   display: flex;
