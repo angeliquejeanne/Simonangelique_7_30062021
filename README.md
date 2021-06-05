@@ -5,16 +5,15 @@
     GROUPOMANIA
 </h2>
 <div align="center">
-    <video src="./public/Docs/videoTest1.mp4" width=320  height=240 controls poster="vignette.jpg">
+    <video src="./public/Docs/videoTest1.mp4" width=640  height=480 controls poster="vignette.jpg">
         Cette vidéo ne peut être affichée sur votre navigateur Internet.
     </video>
+    <p align="center">
+    <a href="" style="text-decoration: none;">
+        <img src="./public/Docs/capt1.png" width="800" alt="Oricamera home page"/>
+    </a>
+</p>
 </div>
-
-
-
-
-
-
 
 
 # Getting Started with Create React App
