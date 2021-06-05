@@ -4,7 +4,11 @@
 <h2 align="center" style="border-bottom: none !important; margin-bottom: 5px !important; text-decoration: none; font-size: 34px; color: #a89274;">
     GROUPOMANIA
 </h2>
-
+<div align="center">
+    <video src="./public/Docs/videoTest1.mp4" width=320  height=240 controls poster="vignette.jpg">
+        Cette vidéo ne peut être affichée sur votre navigateur Internet.
+    </video>
+</div>
 
 
 
