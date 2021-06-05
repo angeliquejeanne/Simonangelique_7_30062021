@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important; text-decoration: none; font-size: 34px; color: #a89274;">
-    Bienvenue sur le Projet 7 - GROUPOMANIA du parcours développeur web d'OpenClassrooms
+    Bienvenue sur le Projet 7 - Créez un réseau social d’entreprise du parcours développeur web d'OpenClassrooms
 </h1>
 <h2 align="center" style="border-bottom: none !important; margin-bottom: 5px !important; text-decoration: none; font-size: 34px; color: #a89274;">
     GROUPOMANIA
