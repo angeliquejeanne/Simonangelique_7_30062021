@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simonangelique_7_30062021/static/css/main.89096bc2.chunk.css",
+    "main.js": "/Simonangelique_7_30062021/static/js/main.2c45408c.chunk.js",
+    "main.js.map": "/Simonangelique_7_30062021/static/js/main.2c45408c.chunk.js.map",
+    "runtime-main.js": "/Simonangelique_7_30062021/static/js/runtime-main.fd4236c2.js",
+    "runtime-main.js.map": "/Simonangelique_7_30062021/static/js/runtime-main.fd4236c2.js.map",
+    "static/js/2.b5500edb.chunk.js": "/Simonangelique_7_30062021/static/js/2.b5500edb.chunk.js",
+    "static/js/2.b5500edb.chunk.js.map": "/Simonangelique_7_30062021/static/js/2.b5500edb.chunk.js.map",
+    "index.html": "/Simonangelique_7_30062021/index.html",
+    "static/css/main.89096bc2.chunk.css.map": "/Simonangelique_7_30062021/static/css/main.89096bc2.chunk.css.map",
+    "static/js/2.b5500edb.chunk.js.LICENSE.txt": "/Simonangelique_7_30062021/static/js/2.b5500edb.chunk.js.LICENSE.txt",
+    "static/media/icon.df011b71.svg": "/Simonangelique_7_30062021/static/media/icon.df011b71.svg",
+    "static/media/logo-monochrome-white.55fdde42.svg": "/Simonangelique_7_30062021/static/media/logo-monochrome-white.55fdde42.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd4236c2.js",
+    "static/js/2.b5500edb.chunk.js",
+    "static/css/main.89096bc2.chunk.css",
+    "static/js/main.2c45408c.chunk.js"
+  ]
+}
